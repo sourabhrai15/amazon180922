@@ -1,0 +1,23 @@
+1.Comos- component object server
+Object oriented and database tool
+Inheritance concept (parent-child relationship)
+Used for 2D and 3D drawings
+Interfaces: 1. EqC 2.Projectwise- Bentley
+3. SAP
+2. Database: development,testing and production
+3. In navigation bar, we find units, documents, location and base objects.
+4. Consolidation layer: 
+1. Monthly layer
+(self layer)
+2. Weekly layer
+(self layer)
+3. Bug layer
+(self layer)
+7. Plant,line,area, functional group
+10.we create bfd in navigation bar. 
+Uses of bfd: 
+All the major components will be showed in blocks.
+Provides layout
+11.Base object: all the master data that usable within a project. User doens't have writing access.
+12. SQL server we use in comos. 
+Microsoft jet and SQL server
